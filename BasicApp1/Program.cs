@@ -8,7 +8,7 @@ namespace BasicApp1
         {
             Console.WriteLine("Hello Github!");
             Student student = new Student();
-            student.StudentId = 1;
+            student.StudentId = 2;
             student.StudentName = "Hexagon";
             student.Question = "Will Nasa save Iron Man?";
             Console.WriteLine(student.Question);
